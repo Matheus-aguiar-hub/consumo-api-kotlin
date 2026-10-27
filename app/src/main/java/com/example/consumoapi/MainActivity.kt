@@ -38,8 +38,7 @@ import com.example.consumoapi.model.Endereco
 import com.example.consumoapi.service.RetrofitFactory
 import com.example.consumoapi.ui.theme.ConsumoAPITheme
 import retrofit2.Call
-import retrofit2.Callback
-import retrofit2.Response
+import retrofitgit
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
